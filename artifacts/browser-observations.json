@@ -1,0 +1,133 @@
+{
+  "viewports": {
+    "mobile390": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "startButton": {
+        "x": 35,
+        "y": 702.359375,
+        "width": 320,
+        "height": 50
+      },
+      "overflow": false,
+      "power": "1.00× live power"
+    },
+    "text200-320": {
+      "width": 320,
+      "scrollWidth": 320,
+      "overflow": false
+    },
+    "text200-390": {
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": false
+    },
+    "text200-768": {
+      "width": 768,
+      "scrollWidth": 768,
+      "overflow": false
+    },
+    "text200-1440": {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": false
+    }
+  },
+  "consoleErrors": [],
+  "missingLocalAssets": [],
+  "apiResponses": [
+    {
+      "path": "/v1/core",
+      "status": 200
+    },
+    {
+      "path": "/v1/status",
+      "status": 200
+    },
+    {
+      "path": "/v1/core",
+      "status": 200
+    },
+    {
+      "path": "/v1/status",
+      "status": 200
+    },
+    {
+      "path": "/v1/core",
+      "status": 200
+    },
+    {
+      "path": "/v1/status",
+      "status": 200
+    },
+    {
+      "path": "/v1/core",
+      "status": 200
+    },
+    {
+      "path": "/v1/status",
+      "status": 200
+    },
+    {
+      "path": "/v1/status",
+      "status": 200
+    },
+    {
+      "path": "/v1/core",
+      "status": 200
+    }
+  ],
+  "contrast": [
+    {
+      "label": "primary action",
+      "foreground": "rgb(25, 37, 16)",
+      "background": "rgb(187, 239, 123)",
+      "ratio": 11.99
+    },
+    {
+      "label": "secondary text on panel",
+      "foreground": "rgb(167, 175, 163)",
+      "background": "rgb(24, 27, 24)",
+      "ratio": 7.7
+    },
+    {
+      "label": "score label",
+      "foreground": "rgb(154, 164, 145)",
+      "background": "rgb(24, 28, 24)",
+      "ratio": 6.64
+    },
+    {
+      "label": "body text",
+      "foreground": "rgb(242, 243, 235)",
+      "background": "rgb(16, 17, 18)",
+      "ratio": 16.92
+    }
+  ],
+  "fontLoaded": true,
+  "round": {
+    "score": 2552,
+    "combo": 32,
+    "perfects": 2,
+    "hits": 32,
+    "verdict": "Win",
+    "dataMode": "live",
+    "averagePower": 1,
+    "id": "ad2efd6c-da64-4721-b18b-dbc07b29fe02",
+    "name": "Guest",
+    "at": 1793672596388
+  },
+  "focus": {
+    "width": "2px",
+    "style": "solid",
+    "color": "rgb(242, 243, 235)"
+  },
+  "mobileWalletLinks": [
+    "Open in MetaMask",
+    "Open in Coinbase Wallet",
+    "Open in Rabby",
+    "Open in Phantom",
+    "Coinbase Smart Wallet"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "command": "npm run test:browser -- --reporter=list,json",
+  "stats": {
+    "startTime": "2026-11-03T02:29:51.165Z",
+    "duration": 186559.557,
+    "expected": 22,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "tests": [
+    {
+      "test": "mobile first screen, local assets, keyboard dialog and accessibility",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 5391
+        }
+      ]
+    },
+    {
+      "test": "round countdown, perfect boost, spam guard, keyboard pause and resume",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 4209
+        }
+      ]
+    },
+    {
+      "test": "35-second loss saves once and survives reload; replay resets the round",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 23396
+        }
+      ]
+    },
+    {
+      "test": "a real-time skill round reaches Win and polls during gameplay",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 39151
+        }
+      ]
+    },
+    {
+      "test": "loading, offline practice, HTTP-200 unavailable and recovery are honest",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 2217
+        }
+      ]
+    },
+    {
+      "test": "feed failure during a round uses base power and produces a mixed result",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 19804
+        }
+      ]
+    },
+    {
+      "test": "storage denial and corrupt storage keep the game playable",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 17195
+        }
+      ]
+    },
+    {
+      "test": "Retry-After from telemetry also delays further requests",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 1308
+        }
+      ]
+    },
+    {
+      "test": "mobile wallet sheet offers all browser links and Coinbase Smart Wallet",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 2509
+        }
+      ]
+    },
+    {
+      "test": "EIP-6963 discovery, signature rejection, verified local registration and disconnect",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 23440
+        }
+      ]
+    },
+    {
+      "test": "320, 768 and 1440 layouts reflow, and reduced motion removes decoration",
+      "browser": "chromium",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 4848
+        }
+      ]
+    },
+    {
+      "test": "mobile first screen, local assets, keyboard dialog and accessibility",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 8915
+        }
+      ]
+    },
+    {
+      "test": "round countdown, perfect boost, spam guard, keyboard pause and resume",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 6293
+        }
+      ]
+    },
+    {
+      "test": "35-second loss saves once and survives reload; replay resets the round",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 27952
+        }
+      ]
+    },
+    {
+      "test": "a real-time skill round reaches Win and polls during gameplay",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 40424
+        }
+      ]
+    },
+    {
+      "test": "loading, offline practice, HTTP-200 unavailable and recovery are honest",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 3686
+        }
+      ]
+    },
+    {
+      "test": "feed failure during a round uses base power and produces a mixed result",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 29254
+        }
+      ]
+    },
+    {
+      "test": "storage denial and corrupt storage keep the game playable",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 30617
+        }
+      ]
+    },
+    {
+      "test": "Retry-After from telemetry also delays further requests",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 3259
+        }
+      ]
+    },
+    {
+      "test": "mobile wallet sheet offers all browser links and Coinbase Smart Wallet",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 5701
+        }
+      ]
+    },
+    {
+      "test": "EIP-6963 discovery, signature rejection, verified local registration and disconnect",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 34762
+        }
+      ]
+    },
+    {
+      "test": "320, 768 and 1440 layouts reflow, and reduced motion removes decoration",
+      "browser": "webkit",
+      "status": "expected",
+      "runs": [
+        {
+          "status": "passed",
+          "durationMs": 11366
+        }
+      ]
+    }
+  ],
+  "note": "The production export was served at a subpath. API fixtures and a simulated injected wallet are used by deterministic interaction checks. Separate live-API observations are retained in browser-observations.json."
+}

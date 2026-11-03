@@ -1,0 +1,12 @@
+# Path and submission budgets are documented in artifacts/PATH_BUDGET.md.
+**/node_modules/
+**/.vite/
+**/.cache/
+**/.npm/
+test/scratch/
+test-results/
+playwright-report/
+.playwright-mcp/
+!artifacts/
+!artifacts/**
+# The production dist/ export is intentionally included.
